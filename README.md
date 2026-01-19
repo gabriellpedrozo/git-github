@@ -18,3 +18,25 @@ Lista de Tarefas:
 - [ ] criar a página principal
 - [x] criar página da loja 
 - [ ] finalizar a reunião 
+
+**Tabela**:
+
+Num | Nome | Nota
+---|---|---
+1 | Gabriel | 10
+2 | Gustavo | 8,7
+3 | Theo | 5
+
+Terminou a tabela
+
+Teste para destacar comandos ex: document.`getElementById()` 
+
+Teste programa em **Python**
+```
+
+num = int(input('Digite um valor:'))
+if num % 2 == 0:
+    print(f'Ovalor {num} é par')
+    else: 
+    print(f'O valor {é ímpar}')
+```
