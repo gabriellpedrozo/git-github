@@ -40,3 +40,5 @@ if num % 2 == 0:
     else: 
     print(f'O valor {é ímpar}')
 ```
+
+Olá turma :vulcan_salute
